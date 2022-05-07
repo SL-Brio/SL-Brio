@@ -1,0 +1,19 @@
+strong : 진하게
+u : 밑줄
+H1~H6 : 제목 태그, 자동 줄바꿈, 크기 구별
+늦었다고 절대 절대 의기소침 하지 말자
+br = endl
+p : 단락 표시 , 열고 닫고
+unsplash.com : 저작권 무료 사진
+img : 이미지, width,src 등등 : attribute
+li : 리스트(목차)
+ul=unodered list 	: li의 부모 태그, 리스트 끼리 구분  "."으로 시작
+ol=odered list 	: li의 부모 태그, 리스트 끼리 구분  번호 붙임
+title : 검색엔진 상에서의 제목
+utf-8(언어)로 왔다 갔다 한다
+
+head에 style 태그 사용
+a{} : 선택자 --> 누구한테 사용할지
+괄호 안에 color:black; --> 효과=선언 
+html 속성이용하기 : style = " " --> " " css효과를 준다
+
